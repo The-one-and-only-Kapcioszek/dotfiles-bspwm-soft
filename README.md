@@ -12,5 +12,10 @@
 <b>terminal:</b> kitty<br>
 <b>bar:</b> <a href="https://github.com/polybar/polybar">polybar</a><br>
 <b>compositor:</b> <a href="https://github.com/jonaburg/picom">picom</a><br>
+<br>
+<br>
+<br>
+<br>
+Wallpapers are in .local/share/wallpapers folder ;3
 
 
